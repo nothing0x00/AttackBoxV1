@@ -1,4 +1,4 @@
-![alt text](https://github.com/nothing0x00/AttackBoxV1/blob/master/logo_image.jpeg)
+![alt text](https://github.com/nothing0x00/AttackBoxV1/blob/master/2020RedTeamSecurityLogo.png)
 # RedTeam AttackBox V1
 
 RedTeam Security developed this tool in the midst of the COVID-19 pandemic, in order to continue to perform internal and wireless penetration testing while maintaining proper social distancing. The goal of this framework is to provide a quick, simple, easy way to set up robust reverse SSH connections out of client networks without any of the pain and frustration often associated with this type of set-up. The goal is to create a machine that can be mailed to a client, or installed as part of a pre-build virtual machine image, with the client needing to just plug it in or install the image, and turn it on.
